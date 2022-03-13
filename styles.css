@@ -1,0 +1,12 @@
+body {
+font-family:Helvetica;
+text-align: center;
+color: white;
+background-color: rgb(56, 54, 54);
+}
+
+nav {
+display: flex;
+justify-content: space-around;
+padding: 10px;
+}
